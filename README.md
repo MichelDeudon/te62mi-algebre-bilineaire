@@ -10,4 +10,4 @@ Installer Python sur votre ordinateur, [Anaconda](https://www.anaconda.com/) et 
 
 Activer l'environment créé avec `activate miashs` et installer jupyter notebook avec `conda install -c anaconda notebook`.
 
-Enfin lancer `jupyter notebook`. Ceci devrait ouvrir un nouvel onglet dans votre navigateur. Vous pouvez ouvrir les fichiers dans le dossier `td` et remplir les sections à compléter.
+Enfin lancer `jupyter notebook`. Ceci devrait ouvrir un nouvel onglet dans votre navigateur. Vous pouvez ouvrir les fichiers dans le dossier `tp` et remplir les sections à compléter.
